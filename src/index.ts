@@ -1,4 +1,5 @@
-// let text:string = 'this is from ts';
 import { text } from './Test_ts'
+// // console.log( text )
 
 document.write( text )
+
